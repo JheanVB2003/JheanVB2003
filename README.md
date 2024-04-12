@@ -5,7 +5,7 @@
 
   <h2>Ferramentas e Tecnologias</h2>
   <div>
-<img src="https://devicon-website.vercel.app/api/git/original.svg" width="40" height="40"></img><img loading="lazy" src="https://devicon-website.vercel.app/api/github/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"  width="40" height="40"></img>
+<img align="center" src="https://devicon-website.vercel.app/api/git/original.svg" width="40" height="40"></img><img loading="lazy" src="https://devicon-website.vercel.app/api/github/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"  width="40" height="40"></img>
   </div>
 <h2>Estou Aprendendo</h2>
 

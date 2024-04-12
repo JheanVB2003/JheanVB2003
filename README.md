@@ -1,6 +1,6 @@
 # 👋 Hello Devs! 
 ## Bem Vindo ao meu perfil do GitHub! Me chamo Jhean Victo, mas meu nickname é "JheanVB2003"!
-##Sobre mim:
+<h3>Sobre mim</h3>
 <p>Tenho 20 anos, sou estudante de Engenharia de Software(5ª Semestre), sou apaixonado pela área da TI e atualmente sou estagiário no Ministério da Defesa como Analista de Dados</p>
 
   ## Ferramentas e Tecnologias

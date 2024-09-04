@@ -9,7 +9,7 @@
   </div>
 <h2>Estou Aprendendo</h2>
 
-<img src="https://devicon-website.vercel.app/api/android/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" height="40"></img>
+<img align="center" src="https://devicon-website.vercel.app/api/android/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" height="40"></img>
 
 <h2>Contatos</h2>
 

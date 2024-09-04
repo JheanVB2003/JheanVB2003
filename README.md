@@ -1,7 +1,7 @@
 # 👋 Hello Devs! 
-## Bem Vindo ao meu perfil do GitHub! Me chamo Jhean Victo, mas meu nickname é "JheanVB2003"!
+## Bem Vindo ao meu perfil do GitHub! Me chamo Jhean Victo!
 <h3>Sobre mim</h3>
-<p>Tenho 20 anos, sou estudante de Engenharia de Software(5ª Semestre), sou apaixonado pela área da TI e atualmente sou estagiário no Ministério da Defesa como Analista de Dados</p>
+<p>Tenho 20 anos, sou estudante de Engenharia de Software(6ª Semestre), sou apaixonado pela área da TI e atualmente sou estagiário no Ministério da Defesa como Analista de Dados</p>
 
   <h2>Ferramentas e Tecnologias</h2>
   <div>
@@ -9,7 +9,7 @@
   </div>
 <h2>Estou Aprendendo</h2>
 
-<img align="center" src="https://devicon-website.vercel.app/api/php/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" height="40"></img>
+<img src="https://devicon-website.vercel.app/api/android/original.svg" width="40" height="40"></img><img src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" height="40"></img>
 
 <h2>Contatos</h2>
 

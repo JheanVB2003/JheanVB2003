@@ -1,15 +1,12 @@
 # 👋 Hello Devs! 
 ## Bem Vindo ao meu perfil do GitHub! Me chamo Jhean Victo!
 <h3>Sobre mim</h3>
-<p>Tenho 20 anos, sou estudante de Engenharia de Software(6ª Semestre), sou apaixonado pela área da TI e atualmente sou estagiário no Ministério da Defesa como Analista de Dados</p>
+<p>Sou estudante de Engenharia de Software(7ª Semestre), sou apaixonado pela área da TI e atualmente sou estagiário no Ministério da Defesa como Analista de Dados</p>
 
   <h2>Ferramentas e Tecnologias</h2>
   <div>
-<img align="center" src="https://devicon-website.vercel.app/api/git/original.svg" width="40" height="40"></img><img align="center" loading="lazy" src="https://devicon-website.vercel.app/api/github/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/html5/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/css3/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"  width="40" height="40"></img>
+<img align="center" src="https://devicon-website.vercel.app/api/git/original.svg" width="40" height="40"></img><img align="center" loading="lazy" src="https://devicon-website.vercel.app/api/github/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/html5/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/css3/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"  width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/android/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40"></img>
   </div>
-<h2>Estou Aprendendo</h2>
-
-<img align="center" src="https://devicon-website.vercel.app/api/android/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40"></img><img align="center" src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" height="40"></img>
 
 <h2>Contatos</h2>
 
